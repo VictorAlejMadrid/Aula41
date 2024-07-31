@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Executer/1.0.0": {
+        "dependencies": {
+          "TemperatureDLL": "1.0.0"
+        },
+        "runtime": {
+          "Executer.dll": {}
+        }
+      },
+      "TemperatureDLL/1.0.0": {
+        "runtime": {
+          "TemperatureDLL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Executer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TemperatureDLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

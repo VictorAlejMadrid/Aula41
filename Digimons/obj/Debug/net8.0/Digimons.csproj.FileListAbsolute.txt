@@ -1,0 +1,17 @@
+C:\Users\victo\source\repos\Aula41\Digimons\obj\Debug\net8.0\Digimons.csproj.AssemblyReference.cache
+C:\Users\victo\source\repos\Aula41\Digimons\obj\Debug\net8.0\Digimons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\source\repos\Aula41\Digimons\obj\Debug\net8.0\Digimons.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\Aula41\Digimons\obj\Debug\net8.0\Digimons.AssemblyInfo.cs
+C:\Users\victo\source\repos\Aula41\Digimons\obj\Debug\net8.0\Digimons.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\Aula41\Digimons\bin\Debug\net8.0\Digimons.exe
+C:\Users\victo\source\repos\Aula41\Digimons\bin\Debug\net8.0\Digimons.deps.json
+C:\Users\victo\source\repos\Aula41\Digimons\bin\Debug\net8.0\Digimons.runtimeconfig.json
+C:\Users\victo\source\repos\Aula41\Digimons\bin\Debug\net8.0\Digimons.dll
+C:\Users\victo\source\repos\Aula41\Digimons\bin\Debug\net8.0\Digimons.pdb
+C:\Users\victo\source\repos\Aula41\Digimons\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\victo\source\repos\Aula41\Digimons\obj\Debug\net8.0\Digimons.csproj.Up2Date
+C:\Users\victo\source\repos\Aula41\Digimons\obj\Debug\net8.0\Digimons.dll
+C:\Users\victo\source\repos\Aula41\Digimons\obj\Debug\net8.0\refint\Digimons.dll
+C:\Users\victo\source\repos\Aula41\Digimons\obj\Debug\net8.0\Digimons.pdb
+C:\Users\victo\source\repos\Aula41\Digimons\obj\Debug\net8.0\Digimons.genruntimeconfig.cache
+C:\Users\victo\source\repos\Aula41\Digimons\obj\Debug\net8.0\ref\Digimons.dll

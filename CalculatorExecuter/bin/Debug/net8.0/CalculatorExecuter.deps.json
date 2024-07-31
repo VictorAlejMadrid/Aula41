@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CalculatorExecuter/1.0.0": {
+        "dependencies": {
+          "MySuperbLib": "1.0.0"
+        },
+        "runtime": {
+          "CalculatorExecuter.dll": {}
+        }
+      },
+      "MySuperbLib/1.0.0": {
+        "runtime": {
+          "MySuperbLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalculatorExecuter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MySuperbLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

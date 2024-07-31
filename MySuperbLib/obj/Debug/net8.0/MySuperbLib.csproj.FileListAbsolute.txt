@@ -1,0 +1,11 @@
+C:\Users\victo\source\repos\Aula41\MySuperbLib\bin\Debug\net8.0\MySuperbLib.deps.json
+C:\Users\victo\source\repos\Aula41\MySuperbLib\bin\Debug\net8.0\MySuperbLib.dll
+C:\Users\victo\source\repos\Aula41\MySuperbLib\bin\Debug\net8.0\MySuperbLib.pdb
+C:\Users\victo\source\repos\Aula41\MySuperbLib\obj\Debug\net8.0\MySuperbLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\source\repos\Aula41\MySuperbLib\obj\Debug\net8.0\MySuperbLib.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\Aula41\MySuperbLib\obj\Debug\net8.0\MySuperbLib.AssemblyInfo.cs
+C:\Users\victo\source\repos\Aula41\MySuperbLib\obj\Debug\net8.0\MySuperbLib.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\Aula41\MySuperbLib\obj\Debug\net8.0\MySuperbLib.dll
+C:\Users\victo\source\repos\Aula41\MySuperbLib\obj\Debug\net8.0\refint\MySuperbLib.dll
+C:\Users\victo\source\repos\Aula41\MySuperbLib\obj\Debug\net8.0\MySuperbLib.pdb
+C:\Users\victo\source\repos\Aula41\MySuperbLib\obj\Debug\net8.0\ref\MySuperbLib.dll
